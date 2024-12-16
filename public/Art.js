@@ -1,4 +1,9 @@
 export const Art = [
+    {   name: "AbaAzul",
+        price: 30000,
+        marco: false,
+        img: "/images/AbaAzul.jpeg"
+    },
     {   name: "abstractView",
         price: 30000,
         marco: false,
