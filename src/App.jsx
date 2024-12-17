@@ -47,28 +47,6 @@ const App = () => {
         </div>
       </header>
 
-      {/* Filter and Search Section */}
-      <section id="categories" className="container mt-5">
-        <h2 className="mb-4 text-center">Nuestras Categorías</h2>
-        <div className="d-flex justify-content-center gap-3 mb-4">
-          <button className="btn btn-outline-primary">Paisajes</button>
-          <button className="btn btn-outline-primary">Retratos</button>
-          <button className="btn btn-outline-primary">Abstracto</button>
-          <button className="btn btn-outline-primary">Modernismo</button>
-        </div>
-        <div className="input-group mb-3">
-          <input
-            type="text"
-            className="form-control"
-            placeholder="Buscar obras..."
-            aria-label="Buscar"
-          />
-          <button className="btn btn-outline-secondary" type="button">
-            Buscar
-          </button>
-        </div>
-      </section>
-
       {/* Art Gallery */}
       <div className="container mt-4">
         <div className="row">
