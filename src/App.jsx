@@ -56,7 +56,6 @@ const App = () => {
                 <img src={e.img} className="card-img-top" alt={e.name} />
                 <div className="card-body">
                   <h5 className="card-title">{e.name}</h5>
-                  <p className="card-text">Precio: ${e.price}</p>
                   <button className="btn btn-success w-100">Comprar</button>
                 </div>
               </div>
