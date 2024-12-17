@@ -79,10 +79,10 @@ export const Art = [
         marco: false,
         img: "/images/redAndWhite.jpeg"
     },
-    {   name: "redAndYellow",
+    {   name: "RedAndYellow",
         price: 30000,
         marco: false,
-        img: "/images/redAndYellow.jpeg"
+        img: "/images/RedAndYellow.jpeg"
     },
     {   name: "redTulipans",
         price: 30000,
@@ -134,9 +134,9 @@ export const Art = [
         marco: false,
         img: "/images/women.jpeg"
     },
-    {   name: "WomensHeart",
+    {   name: "womensHeart",
         price: 30000,
         marco: false,
-        img: "/images/WomensHeart.jpeg"
+        img: "/images/womensHeart.jpeg"
     },
 ]
